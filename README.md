@@ -5,4 +5,8 @@ https://kumparan.com/@kumparannews/pedagang-dan-pengangguran-paling-banyak-terti
 
 This is the link for the data raw:
 
-# https://www.slideshare.net/rizkinolimit/daftar-194-judul-ftv-azab
+https://www.slideshare.net/rizkinolimit/daftar-194-judul-ftv-azab
+
+This is my article about the topics in Bahasa :
+
+https://medium.com/@alamhanz/data-azab-ftv-the-other-point-of-view-c4bac66abf75
